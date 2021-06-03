@@ -1,9 +1,9 @@
 # Machine-Learning-Laboratory
 
-## Algorithms
+## Algorithms Implemented
 * Candidate Elimination
 * Single Layer Perceptron
-* Multi Layer Perceptron
+* Multi Layer Perceptron (MLP)
 * Radial Basis Function (RBF)
 * Support Vector Machine (SVM)
 * Decision Tree - ID3, CART, C4.5
